@@ -5,3 +5,5 @@ A small IDE interface where users can input a short snippet of simple C or Pytho
 It involves AST (Abstract Syntax Tree) parsing and requires maintaining a stack of state snapshots. This is a practical application of compiler principles and data structures (stack / hash table).
 
 Interface implementation: code highlighting on the left (using Qt's QScintilla or Python's tkinter + Pygments), and a large table on the right displaying variable names, values, and schematic memory addresses.
+
+Part of this project was completed by Claude Code, and it is currently still unfinished.
